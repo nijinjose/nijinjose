@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nijinjose
+- 👋 Hi, I’m @nijin_jose
 - 👀 I’m interested in Machine Learning and AI  in Design performance improvement and Autonoumous mobility.
 - 🌱 I’m currently learning Applied ML 
 - 💞️ I’m looking to collaborate on interdisciplinary Projects

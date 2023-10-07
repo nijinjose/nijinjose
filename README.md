@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NIJIN JOSE</h1>
-<h3 align="center">A Mechanical Engineer and a Computational graduate strives to build intelligent systems and solution which would transform technology ,autonomous mobility and propel society forward.</h3>
+<h3 align="center"> A  mechanical engineer and computational graduate, I strive to build intelligent solutions and systems that  transform technology and autonomous mobility, hopefully propelling society forward sustainably.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijinjose&label=Profile%20views&color=0e75b6&style=flat" alt="nijinjose" /> </p>
 

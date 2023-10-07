@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nijinjose" alt="nijinjose" /></a> </p>
 
+<h3 align="left">I’m currently  involved in Applied ML and MLOps</h3> 
+<p align="left">
+</p>
+
 - 🔭 I’m currently  involved in Applied ML and MLOps
 
 - 🌱 I’m currently learning to bringing Intelligence and perception to Systems and solutions.

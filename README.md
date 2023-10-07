@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently  involved in Applied ML and MLOps
 
-- 🌱 I’m currently learning to bringing Intelligence and perception to Systems and solutions.
+- 🌱 I’m currently learning to bringing Intelligence and perception to solutions and systems.
 
-- 👯 👯 I’m looking to collaborate on machine learning, Ops and intelligent systems.
+- 👯  I’m looking to collaborate on machine learning, Ops, and intelligent systems.
 
 - 🤝 I’m looking for help with AI and ML
 

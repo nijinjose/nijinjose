@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NIJIN JOSE</h1>
 <h3 align="center">A mechanical engineer and computational graduate, I strive to build intelligent solutions and systems that transform technology and autonomous mobility, hopefully propelling society forward sustainably.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nijinjose&label=Profile%20views&color=0e75b6&style=flat" alt="nijinjose" /> </p>
+
 
 - 🔭 I’m currently involved in Applied ML and MLOps.
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with AI and ML
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nijinjose&label=Profile%20views&color=0e75b6&style=flat" alt="nijinjose" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nijinjose" alt="nijinjose" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

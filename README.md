@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nijinjose" alt="nijinjose" /></a> </p>
 
-- 🔭 I’m currently working on : I’m currently involved in Applied ML and MLOps [oasis](www.jose.com/oasis)
+- 🔭 I’m currently  involved in Applied ML and MLOps
 
-- 🌱 I’m currently learning AGI and bringing Intelligence and perception to Systems. **coursera/ml**
+- 🌱 I’m currently learning to bringing Intelligence and perception to Systems and solutions.
 
-- 👯 👯 I’m looking to collaborate on : Machine learning and intelligent systems. [sorties](www.jose.com/sorties)
+- 👯 👯 I’m looking to collaborate on machine learning, Ops and intelligent systems.
 
-- 🤝 I’m looking for help with AI [darpa](www.jose.com/darpa)
+- 🤝 I’m looking for help with AI and ML
 
 - 📫 How to reach me **nijinxose@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> nijinxose@gmail.com
 <p align="left">
 </p>
 

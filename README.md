@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently involved in Applied ML and MLOps.
 
-- 🌱 I’m currently learning  bring Intelligence and perception to solutions and systems. 
+- 🌱 I’m currently learning to bring Intelligence and perception to solutions and systems. 
 
 - 👯 👯 I’m looking to collaborate on machine learning and intelligent systems.
 

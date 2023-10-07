@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nijinjose" alt="nijinjose" /></a> </p>
 
+- 🔭 I’m currently working on Applied ml 
+
+
 - 📫 How to reach me **nijinxose@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nijinjose" alt="nijinjose" /></a> </p>
 
-<h3 align="left">I’m currently  involved in Applied ML and MLOps</h3> 
-<p align="left">
-</p>
+
 
 - 🔭 I’m currently  involved in Applied ML and MLOps
 
@@ -17,9 +15,6 @@
 
 - 🤝 I’m looking for help with AI and ML
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-</p>
 
 - 📫 How to reach me **nijinxose@gmail.com**
 

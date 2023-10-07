@@ -13,9 +13,13 @@
 
 - 🤝 I’m looking for help with AI and ML
 
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+</p>
+
 - 📫 How to reach me **nijinxose@gmail.com**
 
-<h3 align="left">Connect with me:</h3> nijinxose@gmail.com
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 </p>
 

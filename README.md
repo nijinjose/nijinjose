@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NIJIN JOSE</h1>
-<h3 align="center">A mechanical engineer and computational graduate, I strive to build intelligent solutions and systems that transform technology and autonomous mobility, hopefully propelling society forward sustainably.</h3>
+<h3 align="center"> Data and Machine learning enthusiast | Mechanical engineer | technology and sustainability</h3>
 
 
 

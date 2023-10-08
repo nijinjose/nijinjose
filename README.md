@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NIJIN JOSE</h1>
-<h3 align="center"> A Data Science and Machine learning enthusiast  | Mechanical engineer  | technology and sustainability</h3>
+<h3 align="center"> A Data Science and Machine learning enthusiast  | Mechanical engineer  | Technology and sustainability</h3>
 
 
 

@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently involved in Applied ML and MLOps.
+- 🔭 I’m currently involved in Applied ML and MLOps and interested in mechanistic interpretability
 
 - 🌱 I’m currently learning to bring Intelligence and perception to solutions and systems. 
 
